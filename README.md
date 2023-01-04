@@ -3,7 +3,7 @@
 - Skills: Python, SQL, EDA, Machine Learning(Sklearn, Numpy, Pandas)
 - I’m currently learning Deep Learning
 - I’m looking to collaborate on visualisation of data and obtaining keen insights about data
-- I have a total work experience of 4 years in validation activities for a German Pharmaceutical Client.
+- I have a total work experience of 4 years in validation activities and EDA for a German Pharmaceutical Client.
 - You can reach out to me via priyankababar713@gmail.com or https://www.linkedin.com/in/priyanka-babar-352a70181/
 
 <!---
