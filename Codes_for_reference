@@ -1,0 +1,110 @@
+RDS Backup Command:
+
+create table Final_Study_Country_OKR1_POC_Backu	p_09Feb as 
+select * from Final_Study_Country_OKR1_POC
+
+
+Checking for duplicates:
+df2 = df['Courses'].groupby(df['Courses']).filter(lambda x: len(x) > 1).value_counts()print("Get count of each group:\n", df2)
+
+
+[\r\n]+  for removing newline in notepadd ++
+\:.* --> replacing everything after colon
+
+Pyspark 
+master_excel_df = spark.read.format("com.crealytics.spark.excel")
+.option("header", "true").option("inferSchema", "true").option("multiline", "true").load("dbfs:/FileStore/babar/adhoc/demand_tracker_2024_1.xlsx")
+
+
+
+excel formulas 
+
+Match = IFERROR(IF(MATCH(A1,Sheet1!$A:$A,0),"yes",),"no")
+SUMIF = SUMIF(Range, criteria, values) --> eg: SUMIF(B1:B6, Mazda, C1:C6) where B1:B6 gives the car types and C1:C6 gives #cars sold
+COUNT = COUNT(B1:B6) --> Counts the numbers of cells in a range that contains numbers
+\|.*$
+
+
+
+
+Alt+F+W+R-- for freeze panes(under view>freeze panes)
+clt+arrow keys-- for moving at last
+shift+arrow keys-- for select and moving
+clt+shift-- select till last
+clt+R-- will copy left cell
+clt+D-- will copy above cell to down
+alt+down-- will suggests all the unique values in column while writing some in same column
+shift+space-- will select entire row on which selected cell
+clt+space-- will select entire column on which selected cell
+
+to add blank row above-- clt+shif+plus
+to remove remove row -- clt+minus
+
+simmilar for column as well-- just select entire column using clt+space
+
+to move row or column to different location-- select entire row or coloumn and then take cursor at line when it becomes lite then move wherever you want
+
+
+shift+f2-- for adding notes for perticulaf cell
+
+cltr+G-- for going at perticular cell
+
+cltr+pagedown/clt+pageup-- to move around sheets
+
+clt+E -- for automatically detecting values as you given in first cell
+
+for sum of all column values-- just go at the empty cell just below last value and enter alt+=
+
+If we selecting and copying any column which consist of value derived from calculation of other two column and if paste somewhere else then
+it will show. so instead of clt+v use clt+alt+v
+
+F4-- after formating cell-- automatically replicationg previous step
+
+clt+h-- find and replace
+
+
+to filter by any value-- right click on cell- filter-- filter by value
+
+to filter using slicer-- create table of data using CLT+t >under table design> then insert slicer
+
+=large(select large,1/2/3)-- for largest,2nd larget or 3rd largest value
+
+clt+end-- to go at end of file
+
+clt+home --to go at first cell
+
+if header is not visible properly-- then select all columns using clt+space and shift>> then click at the top of any column
+
+
+clt+t -- for making dataset to table
+
+clt+- --- to remove selected column
+
+
+Let suppose we removed decimal and made new column so if delete 1st column we will see null on derived column to avoid that select new column
+clt+c>alt+h+vv
+
+Alt+e+s+v-- for pasting as values(for dependent which are showing 0 after pasting)
+
+clt+A>>clt+shift+f3>>top row>>for referncing column name instead indivisula column name
+
+clt+shift+%>>> to make integer value to percentage
+
+clt+shift+L--for filter option
+
+
+--Yes or no matching value in excel
+
+=IFERROR(IF(MATCH(A1,Sheet1!$A:$A,0),"yes",),"no")
+
+
+
+
+
+
+#to make list of column into inverted comma
+
+Highlight the cells you want to add the quotes.
+Go to Format–>Cells–>Custom
+Copy/Paste the following into the Type field: \"@\" or \'@\'
+Done!
