@@ -1,9 +1,7 @@
-- Hi, I am Priyanka 
-- I have interest in Data Engineering
-- Skills: Python, SQL, Pandas, Pyspark, Databricks, Amazon AWS
-- I’m currently learning Azure
-- I’m looking to collaborate on data engineering projects and obtaining key insights about data
-- I have a total work experience of 7 years in Data Analytics and Data Engineering for Pharmaceutical Clients.
+- Hi, I am Priyanka babar currently working in Data Engineering field for lifescience domain with a leading pharma in the world with total of 8+ years of experience.
+- Skills: Python, SQL, Pandas, Pyspark, Databricks, Amazon AWS(Redshift, S3, Lambda, RDS), Airflow, Dbeaver, Data Warehousing, Data Modelling
+- Currently learning about Gen AI and Agentic AI.
+- Looking to collaborate on data engineering Gen AI projects to help in obtaining key insights about data.
 - You can reach out to me via priyankababar713@gmail.com or https://www.linkedin.com/in/priyanka-babar-352a70181/
 
 <!---
