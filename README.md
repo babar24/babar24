@@ -11,13 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- This content will be hidden in the rendered view -->
-## Secret Notes
-This is invisible to visitors.
+<!-- ### Steps to create latex based resume -->
+
+<!-- 1. I have used Jake Ryan overleaf template. So login to https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs website. -->
+<!-- 2. Remove all the existing content of this template with the uploaded main.tex file here. -->
+<!-- 3. Re-compile the content that you replaced with main.tex file on overleaf website. -->
+<!-- 4. Whoa! You got your resume. Now update as per your choice. -->
 <!-- -->
 
-### Steps to create latex based resume
 
-1. I have used Jake Ryan overleaf template. So login to https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs website.
-2. Remove all the existing content of this template with the uploaded main.tex file here.
-3. Re-compile the content that you replaced with main.tex file on overleaf website.
-4. Whoa! You got your resume. Now update as per your choice.
