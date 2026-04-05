@@ -9,6 +9,12 @@ babar24/babar24 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
+<!-- This content will be hidden in the rendered view -->
+## Secret Notes
+This is invisible to visitors.
+<!-- -->
+
 ### Steps to create latex based resume
 
 1. I have used Jake Ryan overleaf template. So login to https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs website.
